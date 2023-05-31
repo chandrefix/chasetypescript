@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chasetypescript/static/css/main.073c9b0a.css",
+    "main.js": "/chasetypescript/static/js/main.d8c6f33e.js",
+    "static/js/787.8710c0bb.chunk.js": "/chasetypescript/static/js/787.8710c0bb.chunk.js",
+    "index.html": "/chasetypescript/index.html",
+    "main.073c9b0a.css.map": "/chasetypescript/static/css/main.073c9b0a.css.map",
+    "main.d8c6f33e.js.map": "/chasetypescript/static/js/main.d8c6f33e.js.map",
+    "787.8710c0bb.chunk.js.map": "/chasetypescript/static/js/787.8710c0bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d8c6f33e.js"
+  ]
+}
